@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 
 ### My name is Bryan Wilson, here are some details about me:
